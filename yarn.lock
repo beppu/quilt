@@ -3798,6 +3798,11 @@ graphql-tool-utilities@^0.9.0:
     graphql "0.13.2"
     graphql-config "2.1.1"
 
+graphql-typed@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/graphql-typed/-/graphql-typed-0.2.0.tgz#626863bbc8d0f1562db08508601dc2439bf00dd7"
+  integrity sha512-cBy1vxabkmx3G0IURSbav7Rww/eQesKvHrSWa0SJy866JyHhxUJehp7m4sgTJt5J1vNFsEaJeHA4xLZmICKHnw==
+
 graphql@0.13.2:
   version "0.13.2"
   resolved "https://registry.yarnpkg.com/graphql/-/graphql-0.13.2.tgz#4c740ae3c222823e7004096f832e7b93b2108270"
