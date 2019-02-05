@@ -4,7 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
-## [0.7.0] - 2019-01-11
+## [0.8.0]
+
+### Changed
+
+- lodash is no longer used internally. [#475](https://github.com/Shopify/quilt/pull/475)
+
+## [0.7.0]
 
 ### Added
 
